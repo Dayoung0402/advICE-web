@@ -1,2 +1,12 @@
-node_modules
-
+.DS_Store
+backend/.gradle
+node_modules/
+package-lock.json
+package.json
+backend/build/
+*.class
+*.bin
+.vscode
+.idea
+backend/.env
+frontend/.env
